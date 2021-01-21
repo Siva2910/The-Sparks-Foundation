@@ -1,3 +1,3 @@
 # The Sparks Foundation
 
-Internship -JAN 2021
+Internship : JAN 2021
